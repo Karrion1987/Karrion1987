@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Karrion1987
+- 👋 Hi, I’m @Allanag
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning on SOYHENRY
 - 💞️ I’m looking to collaborate on Projects for companies
