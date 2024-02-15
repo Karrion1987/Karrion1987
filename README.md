@@ -6,7 +6,6 @@
 ¡Hola! Soy Allan, un profesional de datos apasionado por transformar información en conocimiento. A continuación, te presento algunas de las tecnologías con las que trabajo:
 
 ## Data Scientist 📊
-User
 ## Tecnologías Utilizadas
 
 ### Lenguajes de Programación
