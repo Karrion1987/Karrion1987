@@ -10,8 +10,7 @@ User
 ## Tecnologías Utilizadas
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100"> <img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ### Bibliotecas y Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -44,7 +43,8 @@ User
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)
 
 ### Procesamiento de Datos
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100"> <img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
+
 
 ---
 
