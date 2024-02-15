@@ -10,8 +10,9 @@ User
 ## Tecnologías Utilizadas
 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
+
 ### Deploy with Render
-<img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
+![Render]<img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
 
 
 ### Lenguajes de Programación
