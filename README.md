@@ -10,7 +10,7 @@ User
 ## Tecnologías Utilizadas
 
 [FastAPI](https://fastapi.tiangolo.com/)
-  - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
 
 
 ### Lenguajes de Programación
