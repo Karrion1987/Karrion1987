@@ -9,15 +9,12 @@
 User
 ## Tecnologías Utilizadas
 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
-
-Deploy with Render
 
 <img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="32.5">
 
 
 ### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
 
 ### Bibliotecas y Frameworks
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
