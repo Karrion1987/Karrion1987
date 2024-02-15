@@ -6,7 +6,11 @@
 ¡Hola! Soy Allan, un profesional de datos apasionado por transformar información en conocimiento. A continuación, te presento algunas de las tecnologías con las que trabajo:
 
 ## Data Scientist 📊
+User
+## Tecnologías Utilizadas
 
+- **Framework Backend:** [FastAPI](https://fastapi.tiangolo.com/)
+  - ![FastAPI Logo](https://fastapi.tiangolo.com/img/icon-white.svg)
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
