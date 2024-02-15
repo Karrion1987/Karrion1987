@@ -5,8 +5,9 @@
 
 ¡Hola! Soy Allan, un profesional de datos apasionado por transformar información en conocimiento. A continuación, te presento algunas de las tecnologías con las que trabajo:
 
-## Data Scientist 📊
 ## Tecnologías Utilizadas
+
+## Data Scientist 📊
 
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
