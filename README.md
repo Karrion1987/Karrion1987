@@ -11,7 +11,7 @@ User
 
 <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
 ## Otra Imagen
-<img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="100">
+<img style="display: block; margin: auto;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmmwt9y5hqOay_UXXeqd9gdq98AlkUZAux6Q&amp;usqp=CAU" alt="Otra Imagen" width="25">
 
 
 ### Lenguajes de Programación
