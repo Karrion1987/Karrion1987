@@ -10,7 +10,8 @@ User
 ## Tecnologías Utilizadas
 
 [FastAPI](https://fastapi.tiangolo.com/)
-  - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100" height="100">
+  - <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="FastAPI Logo" width="100">
+
 
 ### Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
