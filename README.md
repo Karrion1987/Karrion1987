@@ -56,7 +56,9 @@
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elganador.inversionista1987@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-alvarez-gonzalez-6783a2256/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/khGKhmyM)
 
+[![Allan Alvarez Gonzalez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karrion1987&show_icons=true&theme=radical)](https://github.com/Karrion1987)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karrion1987&theme=nightfox&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 <!---
 Karrion1987/Karrion1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
