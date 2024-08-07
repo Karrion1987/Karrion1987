@@ -1,5 +1,7 @@
-![Foto de perfil de Instagram Alegre y Llamativa para Marca Personal Arcoiris Gradiente Multicolor (6)](https://github.com/Karrion1987/Karrion1987/assets/138166529/0a3dab99-f875-4d10-b678-09f9fc4e61e5)
-
+<div align="center">
+    <img src="https://github.com/Karrion1987/Karrion1987/assets/138166529/0a3dab99-f875-4d10-b678-09f9fc4e61e5" alt="Foto de perfil" width="200"/>
+    <h1 style="font-size: 2em; color: #3776AB;">Data Scientist</h1>
+</div>
 
 # Perfil de Data Professional
 
@@ -50,18 +52,10 @@
 
 ## 📫 Contact
 
-
 ¡No dudes en contactarme si quieres discutir proyectos emocionantes o colaborar en iniciativas de datos!
-
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:elganador.inversionista1987@gmail.com?subject=Found%20you%20on%20GitHub%20-%20let's%20connect!&body=Hi%20Karina,-%0D%0A%0D%0AI%20came%20across%20your%20profile%20on%20GitHub%20and%20wanted%20to...) &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-alvarez-gonzalez-6783a2256/) &nbsp; [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.gg/khGKhmyM)
 
 [![Allan Alvarez Gonzalez's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karrion1987&show_icons=true&theme=radical)](https://github.com/Karrion1987)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Karrion1987&theme=radical)](https://git.io/streak-stats)
-<!---
-Karrion1987/Karrion1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-                                                                                                                      
