@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Karrion1987/Karrion1987/assets/138166529/0a3dab99-f875-4d10-b678-09f9fc4e61e5" alt="Allan Alvarez González" width="180" style="border-radius: 50%;" />
+  <img src= alt="Allan Alvarez González" width="180" style="border-radius: 50%;" />
 
   <h1>Allan Alvarez González</h1>
   <h3>📊 Data Scientist &amp; Data-Driven Developer · Freelance</h3>
