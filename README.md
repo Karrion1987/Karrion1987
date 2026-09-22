@@ -1,5 +1,5 @@
 <div align="center">
-  alt="Allan Alvarez González" width="180" style="border-radius: 50%;" />
+  
 
   <h1>Allan Alvarez González</h1>
   <h3>📊 Data Scientist &amp; Data-Driven Developer · Freelance</h3>
