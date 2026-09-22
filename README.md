@@ -78,12 +78,12 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Karrion1987&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karrion1987&layout=compact&theme=radical" alt="Top languages" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api?username=Karrion1987&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Karrion1987&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Karrion1987&theme=radical" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Karrion1987&hide_border=true&theme=tokyonight" alt="GitHub streak" />
 </div>
 
 ---
